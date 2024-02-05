@@ -1,0 +1,12 @@
+.navbar{
+    background-color: black;
+    padding: 30px 20px;
+}
+.nav-heder{
+    color: white;
+    text-decoration: none;
+    background-color: gold;
+    font-size:larger;
+    
+    border-radius: 2px;
+}
